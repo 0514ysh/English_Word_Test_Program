@@ -21,7 +21,7 @@ int main() {
 
 	cnt = reload_word(&list, cnt);
 	printf("\n");
-	printf("*****TOEIC Word Test Program*****\n\n");
+	printf("*****English Word Test Program*****\n\n");
 	printf("Reloaded [%d]words from \"word_list.txt\"\n", cnt);
 
 	while (1) {
