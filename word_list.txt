@@ -1,29 +1,67 @@
-presently ÇöÀç¿¡´Â
-certified °øÀÎµÈ
-recognized ÀÎÁ¤¹Ş´Â
-recognition ÀÎÁ¤,º¸»ó
-awards_banquet ¼ö»ó½Ä
-indebt ~¿¡°ÔºúÀ»Áö°ÔÇÏ´Ù
-eliminate Á¦°ÅÇÏ´Ù
-complicate º¹ÀâÇÏ°ÔÇÏ´Ù
-complicated º¹ÀâÇÑ
-enthusiastic ¿­Á¤ÀûÀÎ
-enthusiasm ¿­Á¤
-enthusiast ¿­±¤ÀÚ
-work ÀÏ,Á÷Àå,ÀÏÀ»ÇÏ´Ù
-in_the_choice_of ~À»¼±ÅÃÇÏ´Âµ¥ÀÖ¾î¼­
-conduct Çàµ¿,¼öÇàÇÏ´Ù
-conductor ¾È³»ÀÚ,ÁöÈÖÀÚ
-picturesque ±×¸²°°Àº
-generate ¹ß»ı½ÃÅ°´Ù,ÃÊ·¡ÇÏ´Ù
-tentative ÀÓ½ÃÀûÀÎ
-arbitrary Á¦¸Ú´ë·Î
-rather ¿ÀÈ÷·Á
-state ÁÖ,»óÅÂ,Áø¼úÇÏ´Ù
-display Àü½Ã,Àü½ÃÇÏ´Ù
-on_display Àü½ÃµÇ¾îÀÖ´Â
-commit Àü³äÇÏ´Ù
-commitment Àü³ä,Çå½Å,¾ğ¾à,¾à¼Ó
-offer_to_V ~À»Á¦¾ÈÇÏ´Ù
-offer Á¦¾È,Á¦ÀÇ
-comment ÄªÂùÇÏ´Ù
+examine ê²€í† í•˜ë‹¤
+advance ì‚¬ì „ì˜,ì•ì„œì˜
+vacancy ë¹ˆë°©
+commence ì‹œì‘í•˜ë‹¤
+fee ìš”ê¸ˆ
+fabric ì²œ
+pave ê¸¸ì„í¬ì¥í•˜ë‹¤
+administrator ì´ì‚¬
+intersection êµì°¨ë¡œ
+summarize ìš”ì•½í•˜ë‹¤
+arbitrary ì œë©‹ëŒ€ë¡œ
+reference ì–¸ê¸‰,ì°¸ì¡°,ì¶”ì²œì¸
+director ì´ì‚¬
+accommodation ìˆ™ë°•
+be_lined_up ì¤„ì§€ì–´ìˆë‹¤
+assign í• ë‹¹í•˜ë‹¤,ë°°ë‹¹í•˜ë‹¤
+put_off ë¯¸ë£¨ë‹¤
+contract ê³„ì•½ì„œ
+training_session êµìœ¡
+supervisor ìƒì‚¬,ê°ë…ê´€
+budget ì˜ˆì‚°
+dress ì…ë‹¤
+wearhouse ì°½ê³ 
+branch ì§€ì 
+get_to ~ì—ë„ì°©í•˜ë‹¤
+brochure ì†Œì±…ì
+couple ë‘ê°œ,ë‘ì‚¬ëŒ
+sign_up ë“±ë¡í•˜ë‹¤
+fill_out ì‘ì„±í•˜ë‹¤
+lab ì—°êµ¬ì‹¤,ì‹¤í—˜ì‹¤
+commute í†µê·¼,í†µê·¼í•˜ë‹¤
+giva_~_a_ride ~ì„íƒœì›Œì£¼ë‹¤
+appointment ì•½ì†
+undergo ~ì„ê²ªë‹¤
+renovation ìˆ˜ë¦¬
+nearest ê°€ì¥ê°€ê¹Œìš´
+earn ì°½ì¶œí•˜ë‹¤,ë‚³ë‹¤
+quarter ë¶„ê¸°
+faulty ê²°í•¨ì´ìˆëŠ”
+draw ëŒì–´ë‚´ë‹¤
+comment í‰ê°€,ì˜ê²¬
+classified ê¸°ë°€ì˜
+coworker ë™ë£Œ
+luggage ìˆ˜í•˜ë¬¼
+published ë°œí‘œëœ
+contract ê³„ì•½
+defective ê²°í•¨ìˆëŠ”
+debate ë…¼ìŸ
+operation ìš´ì˜
+assess í‰ê°€í•˜ë‹¤
+confidential ê¸°ë°€ì˜
+properly ì ì ˆíˆ
+competitive ê²½ìŸë ¥ìˆëŠ”
+outdate êµ¬ì‹ì˜
+former ì´ì „ì˜
+determine ê²°ì •í•˜ë‹¤
+renovate ê°œì¡°í•˜ë‹¤,ìˆ˜ë¦¬í•˜ë‹¤
+confirm í™•ì¸í•˜ë‹¤,ìŠ¹ì¸í•˜ë‹¤
+suitable ì ë‹¹í•œ,ì•Œë§ì€
+replacement í›„ì„ì
+accommodate ìˆ˜ìš©í•˜ë‹¤
+attendee ì°¸ì„ì
+attach ë¶™ì´ë‹¤
+explanation ì„¤ëª…
+enclosed ë™ë´‰ëœ
+article ê¸°ì‚¬
+admit ì¸ì •í•˜ë‹¤
